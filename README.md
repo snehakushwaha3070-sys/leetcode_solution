@@ -6,6 +6,7 @@ leetcode questions solution
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/snehakushwaha3070-sys/leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/snehakushwaha3070-sys/leetcode_solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/snehakushwaha3070-sys/leetcode_solution/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/snehakushwaha3070-sys/leetcode_solution/tree/master/0509-fibonacci-number) |
@@ -24,6 +25,7 @@ leetcode questions solution
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/snehakushwaha3070-sys/leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/snehakushwaha3070-sys/leetcode_solution/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -53,4 +55,8 @@ leetcode questions solution
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/snehakushwaha3070-sys/leetcode_solution/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/snehakushwaha3070-sys/leetcode_solution/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
