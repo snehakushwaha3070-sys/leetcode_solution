@@ -13,6 +13,7 @@ leetcode questions solution
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/snehakushwaha3070-sys/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/snehakushwaha3070-sys/leetcode_solution/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -34,6 +35,7 @@ leetcode questions solution
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/snehakushwaha3070-sys/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/snehakushwaha3070-sys/leetcode_solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
